@@ -1,0 +1,6 @@
+.box-module {
+    height: 200px;
+    width: 200px;
+    background-color: lightpink;
+    border: 2px solid palegreen;
+}
